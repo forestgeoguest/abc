@@ -1,3 +1,3 @@
 # abc
 
-Un repo para demos
+Un repositorio para demostraciones
